@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8181cb830979eea4bb4c6e42684ec052, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: 
+  _unitName: Golem
+  _prefab: {fileID: 4420366036382096183, guid: 2b2199b6642b7f141b84f723e9ec3760, type: 3}
+  _unitParameters:
+    _attack: 8
+    _defence: 0.2
+    _healPointsMax: 50
+    _speed: 3
+    _attackSpeed: 1
+    _attackRange: 1.5
+    _powerPointsMax: 0
+    _chanceToMiss: 0.1
+    _chanceToCritical: 0.1
